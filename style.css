@@ -1,0 +1,11 @@
+.lightbulb{
+    width: 500px;
+    height: 500px;
+    background-image: url("./images/lightbulbOff.jpg");
+    background-repeat: no-repeat;
+}
+.lightbulb:hover{
+    background-image: url("./images/lightbulbOn.webp");
+    background-size: 350px 400px;
+
+}
